@@ -16,7 +16,6 @@
 
 ## 📑 Table of Contents
 - [🚀 What You'll Learn](#-what-youll-learn)
-- [📂 Project Structure](#-project-structure)
 - [🛠 Requirements](#-requirements)
 - [▶️ How to Run](#️-how-to-run)
 - [🎯 Who is this for?](#-who-is-this-for)
@@ -57,3 +56,25 @@ Clone this repository and run the file:
 git clone https://github.com/yazanprogrammer1/intro-to-python.git
 cd intro-to-python
 python main.py
+
+## 🎯 Who is this for?
+- 🐍 Python Beginners who want a hands-on introduction
+- 👨‍💻 Students who need quick examples for revision
+- 🚀 Self-learners who want to understand Python fundamentals
+
+---
+
+## 🌟 Why this project?
+This project is designed to be simple, practical, and beginner-friendly.
+Instead of watching long tutorials, you can read, run, and learn Python step by step from real code examples.
+
+---
+
+## 🤝 Contribution
+=> Want to add more examples or improve explanations?
+
+- Fork this repository
+- Create a new branch (feature-xyz)
+- Commit your changes
+- Open a pull request 🎉
+
