@@ -54,6 +54,6 @@ This project covers essential Python concepts step by step:
 Clone this repository and run the file:
 
 ```bash
-git clone https://github.com/USERNAME/intro-to-python.git
+git clone https://github.com/yazanprogrammer1/intro-to-python.git
 cd intro-to-python
 python main.py
