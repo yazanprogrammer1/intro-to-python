@@ -61,7 +61,7 @@ python main.py
 - 🐍 Python Beginners who want a hands-on introduction
 - 👨‍💻 Students who need quick examples for revision
 - 🚀 Self-learners who want to understand Python fundamentals
-
+```
 ---
 
 ## 🌟 Why this project?
@@ -78,3 +78,9 @@ Instead of watching long tutorials, you can read, run, and learn Python step by 
 - Commit your changes
 - Open a pull request 🎉
 
+---
+
+## 📜 License
+This project is licensed under the MIT License – you can use it freely for learning and teaching.
+
+<p align="center">✨ Made with ❤️ by Yazan ✨</p> ```
