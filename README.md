@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/intro-to-python/main/assets/python-banner.png" alt="Intro to Python" width="80%" />
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50%" />
 </p>
 
 <h1 align="center">📘 Intro to Python</h1>
