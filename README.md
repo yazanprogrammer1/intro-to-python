@@ -56,12 +56,14 @@ Clone this repository and run the file:
 git clone https://github.com/yazanprogrammer1/intro-to-python.git
 cd intro-to-python
 python main.py
+```
+---
 
 ## 🎯 Who is this for?
 - 🐍 Python Beginners who want a hands-on introduction
 - 👨‍💻 Students who need quick examples for revision
 - 🚀 Self-learners who want to understand Python fundamentals
-```
+
 ---
 
 ## 🌟 Why this project?
